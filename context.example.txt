@@ -1,0 +1,6 @@
+Game and build: unknown; fill in from the test instructions.
+Test objective: describe the objective the player or agent should complete.
+Expected behavior: list verified rules, success conditions, and known limitations.
+Environment: platform, input method, difficulty, mods, and capture settings if known.
+Reference: explain what the reference recording demonstrates; do not assume matching timelines.
+Review focus: navigation, interaction feedback, objective progress, HUD state, and visual anomalies.

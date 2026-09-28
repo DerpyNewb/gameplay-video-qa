@@ -1,0 +1,8 @@
+{
+  "_comment": "Pixel rows/cols of each bar track in a 1920x1200 Unreal Editor PIE capture. Calibrate for your own capture.",
+  "bars": {
+    "health": {"rows": [207, 210], "cols": [147, 348], "fill": "red"},
+    "stamina": {"rows": [217, 219], "cols": [147, 348], "fill": "green"},
+    "boss": {"rows": [989, 992], "cols": [160, 1345], "fill": "red"}
+  }
+}
