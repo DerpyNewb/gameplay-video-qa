@@ -169,3 +169,7 @@ The tests build synthetic videos with known defects: black, freeze and flash seg
 drops from full to half at 1.0 s. They check that each tool finds them at the right frame. They also check
 the findings checker, the report converter and the API request handling (against a fake HTTP response).
 They do not measure how accurate a review is.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
